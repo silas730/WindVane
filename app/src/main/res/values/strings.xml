@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wind Vane</string>
+    <string name="wind_speed">Wind Speed (kts):</string>
+    <string name="wind_gust">Gusting (kts):</string>
+    <string name="station_name">Station Name</string>
+    <string name="station_list">Weather Stations:</string>
+</resources>
